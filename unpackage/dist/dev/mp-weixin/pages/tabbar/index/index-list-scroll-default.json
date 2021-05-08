@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "index-list-scroll-default": "/pages/tabbar/index/index-list-scroll-default",
+    "navbar": "/components/navbar/navbar",
+    "tab": "/components/tab/tab",
+    "list": "/components/list/list"
+  }
+}

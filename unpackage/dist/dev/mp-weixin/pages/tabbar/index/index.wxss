@@ -41,7 +41,6 @@ page {
   -webkit-box-flex: 1;
   -webkit-flex: 1;
           flex: 1;
-  border: 1px red solid;
 }
 .home .home-list {
   -webkit-box-flex: 1;
@@ -49,6 +48,5 @@ page {
           flex: 1;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  border: 1px red solid;
 }
 

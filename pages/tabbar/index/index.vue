@@ -59,6 +59,7 @@ export default {
 		change(current) {
 			console.log('当前swiper的值',current);
 			this.tabIndex = current
+			this.activeIndex = current
 		}
 	}
 };
@@ -73,11 +74,11 @@ page {
 	display: flex;
 	flex-direction: column;
 	flex: 1;
-	border: 1px red solid;
+	// border: 1px red solid;
 	.home-list {
 		flex: 1;
 		box-sizing: border-box;
-		border: 1px red solid;
+		// border: 1px red solid;
 	}
 }
 </style>

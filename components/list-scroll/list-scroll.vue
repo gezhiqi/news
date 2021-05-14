@@ -23,6 +23,7 @@ export default {
 
 <style lang="scss">
 .scroll {
+	height: 100%;
 	flex: 1;
 	overflow: hidden;
 	box-sizing: border-box;

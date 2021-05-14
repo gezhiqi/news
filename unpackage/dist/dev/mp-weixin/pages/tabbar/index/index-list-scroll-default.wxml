@@ -1,1 +1,0 @@
-<viwe vue-id="f8c7e56e-4" bind:__l="__l" vue-slots="{{['default']}}">123</viwe><block wx:for="{{100}}" wx:for-item="item" wx:for-index="__i0__" wx:key="*this"><view>{{item}}</view></block>
